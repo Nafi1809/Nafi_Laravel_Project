@@ -9,7 +9,7 @@ body {
     background-size: cover;
     background-position: center;
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #000000;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -32,7 +32,7 @@ label {
     color: #333;
 }
 
-    input[type="text"],
+input[type="text"],
 input[type="password"] {
     width: 100%;
     padding: 10px;
@@ -52,19 +52,21 @@ input[type="password"] {
 }
 
 button {
-    width: 100%;
+    width: 80%;
     padding: 10px;
-    background-color: #ea9292;
+    background-color: #4976b5;
     border: none;
+    align-self: space-between;
     border-radius: 4px;
     color: #ffffff;
     font-size: 16px;
     display: flex;
-      justify-content: center;
-    
+    justify-content: center;
+    margin-top: 10%;
+    margin-left: 10%;
     
 }
 
 button:hover {
-    background-color: #ff0000;
+    background-color: #503e3e;
 }
