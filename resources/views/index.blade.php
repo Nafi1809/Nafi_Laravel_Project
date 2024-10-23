@@ -33,7 +33,7 @@
     <!-- Homepage Content -->
     <div class="homepage flex justify-center items-center h-screen bg-gray-100">
         <div class="content-container flex flex-col items-center md:flex-row space-y-6 md:space-y-0 md:space-x-8">
-            <img src="aset/images/skull cuy.jpg" height="500" alt="aku" class="w-80 h-auto border-4 border-black rounded-lg shadow-lg">
+            <img src="aset/images/gweh.jpg" height="500" alt="aku" class="w-80 h-auto border-4 border-black rounded-lg shadow-lg">
             <div class="text-container text-center md:text-left">
                 <h1 class="text-4xl font-bold mb-4">Hi!</h1>
                 <h2 class="text-2xl mb-4">I am Nafi Kusuma Abqory. Welcome to my website.<br> Explore, discover, and enjoy your time here.</h2>
